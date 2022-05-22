@@ -1,6 +1,6 @@
 # Simple Pokemon API
 
-This is a simple API where the usser is able to enter a Pokemon name and the respective Pokemon will show up.
+This is a simple API where the user is able to enter a Pokemon name and the respective Pokemon will show up.
 
 <img width="723" alt="Screen Shot 2022-05-22 at 1 55 05 PM" src="https://user-images.githubusercontent.com/102008028/169708926-8bef3a70-5a6f-4472-ab6f-b672d579c402.png">
 
